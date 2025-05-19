@@ -3,7 +3,7 @@
 A system to manage inventory and order processing for a sweets factory.
 
 - **Technologies**: HTML, CSS, JavaScript (Frontend and Backend), Database Design  
-- **My Role**: Actively contributed to frontend development (HTML, CSS, JavaScript), backend development (JavaScript), UI/UX design, and database design as part of the team  
+- **My Role**: Actively contributed to frontend development (HTML, CSS, JavaScript), and database design as part of the team  
 - **Features**: System analysis with Context, Level-0, and Level-1 DFDs  
 
  Project Files  
